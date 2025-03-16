@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4c376c9-c480-4b90-b217-7cc5c8fd9664" name="更改" comment="2.3 complete">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/yunlab1_father/productservice/ProductServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/yunlab1_father/productservice/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/yunlab1_father/productservice/mapper/ProductMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/src/main/java/yunlab1_father/productservice/po/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-service/src/test/java/yunlab1_father/productservice/ProductServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c4c376c9-c480-4b90-b217-7cc5c8fd9664" name="更改" comment="2.3 complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +124,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductServiceApplication1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="yunlab1_father.productservice.ProductServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8011" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ProductServiceApplication1" />
+      <item itemvalue="Spring Boot.EurekaServiceApplication" />
+      <item itemvalue="Spring Boot.ProductServiceApplication" />
+      <item itemvalue="Spring Boot.ProductClientApplication" />
+      <item itemvalue="应用程序.EurekaServiceApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ProductClientApplication" />
@@ -165,7 +159,7 @@
       <workItem from="1742093264863" duration="38000" />
       <workItem from="1742093677989" duration="5315000" />
       <workItem from="1742099018762" duration="377000" />
-      <workItem from="1742120056494" duration="366000" />
+      <workItem from="1742120056494" duration="3201000" />
     </task>
     <task id="LOCAL-00001" summary="2.3 complete">
       <option name="closed" value="true" />
