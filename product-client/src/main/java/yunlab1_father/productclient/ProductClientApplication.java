@@ -3,7 +3,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.openfeign.EnableFeignClients;
-@SpringBootApplication(scanBasePackages = {"yunlab1_father.productclient.controller"})
+@SpringBootApplication(scanBasePackages = {"yunlab1_father.productclient.controller","yunlab1_father.productclient.Client"})
 @EnableEurekaClient
 @EnableFeignClients("yunlab1_father.productclient.Client")
 

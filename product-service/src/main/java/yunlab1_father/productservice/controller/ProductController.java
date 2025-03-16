@@ -19,8 +19,11 @@ public class ProductController {
      * 根据商品id 查询商品
      */
     @GetMapping("/findByProductId/{productId}")
-    public Product findByProductId(@PathVariable Long productId) {
+    public Product findByProductId(@PathVariable Long productId) throws InterruptedException {
         Product product = productMapper.findByProductId(productId);
+        // 测试熔断机制.在product-service 中的服务中加上延时，
+        // 使服务响应时间超过设置的熔断阀值，这样就会激活熔断机制，进行熔断。
+        // Thread.sleep(2000);
         log.info("-------------OK /findByProductId/{productId}--------------------");
         return product;
     }
