@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4c376c9-c480-4b90-b217-7cc5c8fd9664" name="更改" comment="2.3 complete">
-      <change afterPath="$PROJECT_DIR$/gateway-service/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/java/yunlab1_father/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/test/java/yunlab1_father/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/java/yunlab1_father/gatewayservice/AuthFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/yunlab1_father/productservice/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/yunlab1_father/productservice/controller/ProductController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +174,7 @@
       <workItem from="1742099018762" duration="377000" />
       <workItem from="1742120056494" duration="8824000" />
       <workItem from="1742694908034" duration="182000" />
-      <workItem from="1742695107271" duration="4557000" />
+      <workItem from="1742695107271" duration="5422000" />
     </task>
     <task id="LOCAL-00001" summary="2.3 complete">
       <option name="closed" value="true" />
